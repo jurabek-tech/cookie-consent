@@ -3,7 +3,7 @@
 
 I actually used Session Storage
 
-[Screenshot](/images/screenshot.png)
+![Screenshot](/images/screenshot.png)
 
 [Icon by ibrandify](https://www.freepik.com/search)
 
